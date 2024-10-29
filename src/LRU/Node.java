@@ -1,4 +1,4 @@
-package cache;
+package LRU;
 
 public class Node {
     public int key, value;

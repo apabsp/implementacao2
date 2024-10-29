@@ -1,4 +1,4 @@
-package cache;
+package LRU;
 
 import java.util.Scanner;
 

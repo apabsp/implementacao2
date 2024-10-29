@@ -1,4 +1,4 @@
-package cache;
+package LRU;
 
 public class DoublyLinkedList {
     private final Node head, tail;
